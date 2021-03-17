@@ -1,1 +1,5 @@
 theme: jekyll-theme-hacker
+
+title: MInfo e.V. Hackathon
+description: "Ein Hackathon für die Nutzung öffentlicher Daten"
+show_downloads: false
