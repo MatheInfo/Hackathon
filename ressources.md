@@ -5,10 +5,22 @@ What is your car's favourite spare time hobby? It parks around. In this project,
 
 <iframe width="100%" height="576" src="https://media.ccc.de/v/rc3-663787-a_few_quantitative_thoughts_on_parking_in_marburg/oembed" frameborder="0" allowfullscreen>https://media.ccc.de/v/rc3-663787-a_few_quantitative_thoughts_on_parking_in_marburg</iframe>
 
+
+
 <!--
 ## Data-Mining in Python 
 
  Jonas 
+-->
+
+
+
+<!--
+
+## Data-Mining in Java
+
+Marc
+
 -->
 
 # Anlaufpunkte für Datasets 
