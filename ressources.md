@@ -15,16 +15,12 @@ What is your car's favourite spare time hobby? It parks around. In this project,
 
 
 
-<!--
-
 ## Data-Mining in Java
 
 - [JSoup](https://jsoup.org/) - web scraping mit Java
 - [jfreechart](https://www.jfree.org/jfreechart/) - Diagramme mit Java
 - [OpenCSV](http://opencsv.sourceforge.net/) - CSV für Java
 - [ApacheCommonCSV](https://commons.apache.org/proper/commons-csv/) - weiteres CSV für Java
-
--->
 
 # Anlaufpunkte für Datasets 
 

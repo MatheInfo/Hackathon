@@ -33,10 +33,10 @@ setInterval(setCountdown, 53);
 
 # Ablauf
 
-| Wann?                               | Was?                | Wo?           |
-|-------------------------------------|---------------------|---------------|
-| Samstag, 17. April 2021, 13:00 CEST | Welcome Session     | [BigBlueButton (tba)](https://webconf.hrz.uni-marburg.de/c/mar-rwx-45n-86) |
-| Samstag, 17. April 2021, 14:00 CEST | Hackathon Start     | In der Gruppe |
+| Wann?                               | Was?                | Wo?                                                          |
+| ----------------------------------- | ------------------- | ------------------------------------------------------------ |
+| Samstag, 17. April 2021, 13:00 CEST | Welcome Session     | [BigBlueButton (tba)](https://webconf.hrz.uni-marburg.de/c/mar-rwx-45n-86y) |
+| Samstag, 17. April 2021, 14:00 CEST | Hackathon Start     | In der Gruppe                                                |
 | Sonntag, 18. April 2021, 14:00 CEST | Final Presentations | [BigBlueButton (tba)](https://webconf.hrz.uni-marburg.de/c/mar-rwx-45n-86y) |
 | Sonntag, 18. April 2021, 17:00 CEST | Award Ceremony      | [BigBlueButton (tba)](https://webconf.hrz.uni-marburg.de/c/mar-rwx-45n-86y) |
 
