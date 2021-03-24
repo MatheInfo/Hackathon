@@ -59,8 +59,8 @@ Die Anmeldung findet per E-Mail statt. Ihr könnt euch
 Schickt eine E-Mail an [minfo@mathematik.uni-marburg.de](mailto:minfo@mathematik.uni-marburg.de?subject=MInfo%20e.V.%20Hackathon&body=Hey%2C%0D%0A%0D%0Aich%20m%C3%B6chte%20mich%20bzw.%20meine%20Gruppe%20gerne%20zum%20MInfo%20e.V.%20Hackathon%20anmelden.%20%0D%0A%0D%0AName(n)%3A%20%0D%0ATeamname%20(nur%20bei%20Gruppenanmeldung)%3A%20%0D%0A%0D%0ALiebe%20Gr%C3%BC%C3%9Fe) und gebt eure Namen und einen Teamnamen an.
 
 # Weitere Infos
-- [Ressourcen](/ressources) mit Beispiele für OpenData Projekten und Anlaufstellen für Datasets.
-- [Frequently Asked Questions](/faq) und die passenden Antworten.
+- [Ressourcen](./ressources) mit Beispiele für OpenData Projekten und Anlaufstellen für Datasets.
+- [Frequently Asked Questions](./faq) und die passenden Antworten.
 
 # Kontaktdaten & Social Media
 
