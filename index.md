@@ -61,10 +61,3 @@ Schickt eine E-Mail an [minfo@mathematik.uni-marburg.de](mailto:minfo@mathematik
 # Weitere Infos
 - [Ressourcen](./ressources) mit Beispiele für OpenData Projekten und Anlaufstellen für Datasets.
 - [Frequently Asked Questions](./faq) und die passenden Antworten.
-
-# Kontaktdaten & Social Media
-
-- Mail: [minfo@mathematik.uni-marburg.de](mailto:minfo@mathematik.uni-marburg.de)
-- Discord: [https://discordapp.com/invite/aKnp9ee](https://discordapp.com/invite/aKnp9ee)
-- Instagram: [https://www.instagram.com/matheinfo/](https://www.instagram.com/matheinfo/)
-- Facebook: [https://www.facebook.com/MatheInfo](https://www.facebook.com/MatheInfo)
