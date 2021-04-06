@@ -34,5 +34,5 @@ Das Team darf dann gerne durch andere Personen ergänzt werden.
 ### Wie finde ich ein Thema?
 
 Das ist nicht ganz so leicht zu beantworten. Wir finden Themen besonders spannend die uns direkt betreffen, also vielleicht etwas aus oder um Marburg, oder etwas, dass dich selbst betrifft und zu dem du eine Geschichte hast.
-Du kannst dich aber auch von der anderen Seite nähern und durch verfügbare Datensätze durchblättern, um Inspiration zu finden. Schau mal auf [unserer Ressourcen Seite](ressources/#anlaufpunkte-für-datasets). 
+Du kannst dich aber auch von der anderen Seite nähern und durch verfügbare Datensätze durchblättern, um Inspiration zu finden. Schau mal auf [unserer Ressourcen Seite](ressources#anlaufpunkte-für-datasets). 
 
