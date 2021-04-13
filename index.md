@@ -25,29 +25,24 @@ function setCountdown() {
 setCountdown();
 setInterval(setCountdown, 53);
 </script>
-<!--
-# OpenData & DataMining
-
- SpiegelMining, Parken in Marburg 
- -->
 
 # Ablauf
 
 | Wann?                               | Was?                | Wo?                                                          |
 | ----------------------------------- | ------------------- | ------------------------------------------------------------ |
-| Samstag, 17. April 2021, 13:00 CEST | Welcome Session     | [BigBlueButton (tba)](https://webconf.hrz.uni-marburg.de/c/mar-rwx-45n-86y) |
+| Samstag, 17. April 2021, 13:00 CEST | Welcome Session     | [BigBlueButton](https://webconf.hrz.uni-marburg.de/c/mar-rwx-45n-86y) |
 | Samstag, 17. April 2021, 14:00 CEST | Hackathon Start     | In der Gruppe                                                |
-| Sonntag, 18. April 2021, 14:00 CEST | Final Presentations | [BigBlueButton (tba)](https://webconf.hrz.uni-marburg.de/c/mar-rwx-45n-86y) |
-| Sonntag, 18. April 2021, 17:00 CEST | Award Ceremony      | [BigBlueButton (tba)](https://webconf.hrz.uni-marburg.de/c/mar-rwx-45n-86y) |
+| Sonntag, 18. April 2021, 14:00 CEST | Final Presentations | [BigBlueButton](https://webconf.hrz.uni-marburg.de/c/mar-rwx-45n-86y) |
+| Sonntag, 18. April 2021, 17:00 CEST | Award Ceremony      | [BigBlueButton](https://webconf.hrz.uni-marburg.de/c/mar-rwx-45n-86y) |
 
 # Kategorien & Preise
 
 Jede\*r Teilnehmer\*in erhält einen Sticker vom Hackathon, als gute Erinnerung und zum Posen auf dem Laptop... Außerdem vergeben wir für die drei besten Gruppen jeweils einen Titel:
 
-|Platz | Was?                | Preis                         |
-|------|---------------------|-------------------------------|
-| 3.   | OpenData Pro        | Trophäe                       |
-| 2.   | OpenData Genious    | Trophäe                       |
+|Platz | Was?                | Preis                            |
+|------|---------------------|----------------------------------|
+| 3.   | OpenData Pro        | Trophäe                          |
+| 2.   | OpenData Genius     | Trophäe                          |
 | 1.   | OpenData Wizard     | Trophäe + FB12-Shirt für jede\*n |
 
 # Anmeldung
