@@ -8,7 +8,7 @@ Ihr habt 24 Stunden Zeit euch einen OpenData Datensatz vor zu nehmen und nutzbri
 <h1 id="countdown" style="text-align: center"></h1>
 
 <script>
-var countDownDate = new Date("Apr 18, 2021 13:00:00").getTime();
+var countDownDate = new Date("Apr 18, 2021 14:00:00").getTime();
 
 function setCountdown() {
   var distance = countDownDate - new Date().getTime();
