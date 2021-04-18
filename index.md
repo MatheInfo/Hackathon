@@ -13,6 +13,11 @@ var countDownDate = new Date("Apr 18, 2021 14:00:00").getTime();
 function setCountdown() {
   var distance = countDownDate - new Date().getTime();
 
+  if (distance <= 0){
+    document.getElementById("countdown").innerHTML = "Zeit vorbei!";
+    return;
+  }
+
   var days = Math.floor(distance / (1000 * 60 * 60 * 24));
   var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
   var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
@@ -32,8 +37,8 @@ setInterval(setCountdown, 53);
 | ----------------------------------- | ------------------- | ------------------------------------------------------------ |
 | Samstag, 17. April 2021, 13:00 CEST | Welcome Session     | [BigBlueButton](https://webconf.hrz.uni-marburg.de/c/mar-rwx-45n-86y) |
 | Samstag, 17. April 2021, 14:00 CEST | Hackathon Start     | In der Gruppe                                                |
-| Sonntag, 18. April 2021, 14:00 CEST | Final Presentations | (BigBlueButton ist down...)[Discord](https://discord.gg/bB5YNSk8) |
-| Sonntag, 18. April 2021, 17:00 CEST | Award Ceremony      | (BigBlueButton ist down...)[Discord](https://discord.gg/bB5YNSk8) |
+| Sonntag, 18. April 2021, 14:00 CEST | Final Presentations | [BigBlueButton](https://webconf.hrz.uni-marburg.de/c/mar-rwx-45n-86y) |
+| Sonntag, 18. April 2021, 17:00 CEST | Award Ceremony      | [BigBlueButton](https://webconf.hrz.uni-marburg.de/c/mar-rwx-45n-86y) |
 
 # Kategorien & Preise
 
