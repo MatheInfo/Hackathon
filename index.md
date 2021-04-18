@@ -32,8 +32,8 @@ setInterval(setCountdown, 53);
 | ----------------------------------- | ------------------- | ------------------------------------------------------------ |
 | Samstag, 17. April 2021, 13:00 CEST | Welcome Session     | [BigBlueButton](https://webconf.hrz.uni-marburg.de/c/mar-rwx-45n-86y) |
 | Samstag, 17. April 2021, 14:00 CEST | Hackathon Start     | In der Gruppe                                                |
-| Sonntag, 18. April 2021, 14:00 CEST | Final Presentations | [BigBlueButton](https://webconf.hrz.uni-marburg.de/c/mar-rwx-45n-86y) |
-| Sonntag, 18. April 2021, 17:00 CEST | Award Ceremony      | [BigBlueButton](https://webconf.hrz.uni-marburg.de/c/mar-rwx-45n-86y) |
+| Sonntag, 18. April 2021, 14:00 CEST | Final Presentations | (BigBlueButton ist down...)[Discord](https://discord.gg/bB5YNSk8) |
+| Sonntag, 18. April 2021, 17:00 CEST | Award Ceremony      | (BigBlueButton ist down...)[Discord](https://discord.gg/bB5YNSk8) |
 
 # Kategorien & Preise
 
